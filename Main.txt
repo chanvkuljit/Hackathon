@@ -1,0 +1,3 @@
+An Anti-Drone Solution which can counter or intercept the UAVs using various techniques like RF Jamming, Lasers, Auto Missiles, Radio Spoofers, Attack Birds, Drone Guns, GPS spoofing, Nets and Guns, High Power Microwave (HPM) Devices or any other. As Drone policies are smoothening, unwanted UAVs are being detected at unexpected places which needs to be Countered or intercepted for the privacy and security reasons.
+
+https://casstt.com/post/chinese-emp-test-to-counter-unmanned-aerial-systems/475#:~:text=The%20EMP%2Dbased%20technique%20uses,with%20its%20ground%20control%20station.
